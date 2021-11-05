@@ -7,7 +7,7 @@
 ## Table of Contents
 
 - [What is Load Balancing?](#what-is-load-balancing)
-- [How Load Balancing works](#how-load-balancing-works)
+- [How Load Balancing works](#how-load-balancer-works)
 - [Benefits of Load Balancing](#benefits-of-load-balancing)
 - [Load Balancing Algorithm](#load-balancing-algorithm)
   - Round Robin
